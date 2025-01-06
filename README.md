@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/EtiIjeoma)
 
 
-### Glad to see you here! &nbsp; 
+### Glad to see you here! &nbsp;
 
 I am a software engineer with an eye for understanding the heart of a system. I love programming, reading, writing and building cool stuffs.
 
