@@ -16,7 +16,7 @@ I am a software engineer with an eye for understanding the heart of a system. I 
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [hashnode](https://omah.hashnode.dev);
+- 📝 I regulary write articles on [Here](https://omah.dev);
 - 📫 How to reach me: ijayeti@gmail.com;
 <!-- - 📝 [Resume](https://omah.com). -->
 
